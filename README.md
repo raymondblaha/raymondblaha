@@ -4,7 +4,7 @@
 - 💞️ I’m looking to find a summer internship 2023.
 - 📫 Reach me by email raymond.l.blaha@gmail.com
 - 👨‍🎓 check out some of my algorithms python notebooks
-- 😺 check out some of my RStudio HTML and RMD files
+- 😺 check out some of my RStudio HTML, RMD, and Python files. 
 - 📈 More notebooks, HTML, and RMD files to come! 
 
 <!---
