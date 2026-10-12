@@ -43,8 +43,8 @@ Python, R, SQL, PostgreSQL, pandas, scikit-learn, TensorFlow/Keras, statsmodels,
 
 ## Background
 
+- Oak Ridge Institute for Science and Education (ORISE) Artificial Intelligence and Machine Learning Research Fellow, USDA-ARS
 - Research Associate II, Mississippi State University
-- Artificial Intelligence and Machine Learning Research Fellow, USDA-ARS
 - M.S. Applied Data Science / Applied Data Analytics
 - B.A. Economics
 
