@@ -12,7 +12,33 @@ I build reproducible Python/R workflows for messy real-world datasets: data clea
 - Machine learning for anomaly detection and prediction
 - Statistical analysis, model evaluation, and scientific reporting
 
-## Featured Project
+## Featured Projects
+
+### [Wildlife Telemetry Anomaly Detection](https://github.com/raymondblaha/wildlife-telemetry-anomaly-detection)
+
+A public-safe machine learning project based on cervid GPS telemetry research for chronic wasting disease analytics.
+
+This project demonstrates:
+
+- GPS telemetry preprocessing and movement-feature engineering
+- Rolling-window movement metrics and AKDE space-use features
+- Autoencoder-based anomaly detection on synthetic public data
+- Reproducible model training, thresholding, and results inspection
+- Streamlit dashboard for preprocessing, model architecture, and anomaly results
+- Public-safe preservation of manuscript workflow structure without exposing collaborator raw data
+
+### [Sheep Selenium Reproductive Statistics](https://github.com/raymondblaha/sheep-selenium-reproductive-statistics)
+
+A public-safe statistical analysis project for a sheep selenium supplementation and reproductive-outcome study.
+
+This project demonstrates:
+
+- Synthetic data generation from a real study design
+- Longitudinal selenium trajectory analysis
+- Reproductive outcome summaries and hypothesis testing
+- Pairwise control contrasts with adjusted p-values
+- Explicit discussion of pen/treatment confounding and small-sample limitations
+- Streamlit dashboard for study design, selenium trends, reproduction outcomes, and statistical results
 
 ### [Envirohealth Pipeline](https://github.com/raymondblaha/Envirohealth-pipeline)
 
