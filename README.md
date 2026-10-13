@@ -27,7 +27,7 @@ This project demonstrates:
 
 - GPS telemetry preprocessing and movement-feature engineering
 - Rolling-window movement metrics and AKDE space-use features
-- Autoencoder-based anomaly detection on synthetic public data
+- Autoencoder-based anomaly detection on synthetic, public-safe telemetry data (no protected raw GPS data exposed)
 - Reproducible model training, thresholding, and results inspection
 - Streamlit dashboard for preprocessing, model architecture, and anomaly results
 - Public-safe preservation of manuscript workflow structure without exposing collaborator raw data
@@ -38,7 +38,7 @@ A public-safe statistical analysis project for a sheep selenium supplementation 
 
 This project demonstrates:
 
-- Synthetic data generation from a real study design
+- Synthetic data generation from a real study design (no collaborator raw data exposed)
 - Longitudinal selenium trajectory analysis
 - Reproductive outcome summaries and hypothesis testing
 - Pairwise control contrasts with adjusted p-values
