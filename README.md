@@ -12,6 +12,11 @@ I build reproducible Python/R workflows for messy real-world datasets: data clea
 - Machine learning for anomaly detection and prediction
 - Statistical analysis, model evaluation, and scientific reporting
 
+## Publications and Manuscripts
+
+- **Published:** [Use of deep learning to predict chronic wasting disease status based on animal movement](https://link.springer.com/article/10.1186/s40462-026-00668-4), *Movement Ecology* (2026). This work used autoencoder-based anomaly detection on mule deer GPS telemetry to identify CWD-associated movement changes.
+- **Manuscript prepared:** *CWD-based movement changes vary among species of cervids*. This white-tailed deer manuscript extends the movement-anomaly workflow to evaluate species-specific CWD movement signatures, relocation-rate sensitivity, and feature contributions.
+
 ## Featured Projects
 
 ### [Wildlife Telemetry Anomaly Detection](https://github.com/raymondblaha/wildlife-telemetry-anomaly-detection)
